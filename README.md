@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding js and using nodejs
 - 🌱 I’m currently learning js and nodejs
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me: boazvoort@gmail.com
+- 📫 How to reach me: .......
 
 <!---
 Zaob/Zaob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
